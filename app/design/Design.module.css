@@ -1,0 +1,50 @@
+.container{
+    margin-top: 50px;
+}
+
+.Title{
+    color:#4a5568;
+    font-size: 28px;
+    margin-bottom: 30px;
+    border-bottom: 2px solid #4a5568;
+    width: max-content;
+}
+
+.item{
+    display: flex;
+    gap: 50px;
+    margin-bottom: 50px;
+}
+
+.imgContainer{
+    flex:1;
+    height: 300px;
+    position: relative;
+}
+
+.img{
+    object-fit: cover;
+}
+
+.content{
+    flex:1;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.activites{
+    color: #4a5568;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+@media screen and (max-width:768px){
+  .desc{
+    display: none;
+  }
+}
+
+
+  

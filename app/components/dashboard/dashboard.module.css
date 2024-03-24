@@ -1,0 +1,57 @@
+.dashboardBox {
+    background-color: #fff;
+    border-radius: 10px;
+    margin-top: 38px;
+  }
+  
+  .dashboardHeader {
+    background-color: #4a5568;
+    color: #fff;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 20px;
+  }
+  
+  .dashboardTitle {
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
+  }
+  
+  .section {
+    padding: 20px;
+    border-bottom: 1px solid #e5e7eb;
+  }
+  
+  .sectionTitle {
+    font-size: 24px;
+    margin: 0 0 10px;
+  }
+  
+  .progress {
+    background-color: #f3f4f6;
+    border-radius: 8px;
+    height: 12px;
+    margin-bottom: 10px;
+    /* overflow: hidden; */
+  }
+  
+  .progressBar {
+    background-color: #6b7280;
+    border-radius: 8px;
+    height: 100%;
+  }
+  
+  .details {
+    display: none;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    padding: 10px;
+    border-radius: 8px;
+    margin-top: 10px;
+  }
+  
+  .section:hover .details {
+    display: block;
+  }
