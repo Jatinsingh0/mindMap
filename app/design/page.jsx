@@ -16,7 +16,7 @@ const Design = () => {
             The Design phase in the car manufacturing process is a pivotal stage
             where the conceptualization and visualization of the vehicle take
             place. It serves as the blueprint for the entire manufacturing
-            process, laying the foundation for the car's aesthetics,
+            process &apos; laying the foundation for the car&apos;s aesthetics,
             functionality, and performance.
           </p>
 
@@ -24,7 +24,7 @@ const Design = () => {
             During this phase, automotive engineers and designers collaborate
             closely to translate the initial concept into tangible designs. This
             involves extensive research, analysis, and iteration to ensure that
-            the final product meets the company's standards and customer
+            the final product meets the company&apos;s standards and customer
             expectations.
           </p>
           <p className={styles.activites}>Key activities in the Design phase include:</p>
